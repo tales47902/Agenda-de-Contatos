@@ -42,9 +42,3 @@ Este projeto permite gerenciar uma lista de contatos por meio de um menu interat
 ## Objetivo
 
 Este projeto faz parte do meu processo de aprendizado em C# e .NET, com foco em desenvolver uma boa base em Programação Orientada a Objetos antes de avançar para aplicações com banco de dados, APIs e ASP.NET Core.
-
-## Autor
-
-**Tales Dias**
-
-Graduado em Sistemas de Informação e em constante evolução nos estudos de C# e .NET, construindo projetos para compor meu portfólio.
